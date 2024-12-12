@@ -2,9 +2,10 @@
 Winter in Data Science, 2024
 
 ### Problem Statement
-Check the introductory presentation [here](https://docs.google.com/presentation/d/1HyFptLId--epo-OwuoIda-OaTSfT9r2nOGF6UUyWFgQ/edit?usp=sharing)
+Check the introductory presentation [here](https://docs.google.com/presentation/d/1HyFptLId--epo-OwuoIda-OaTSfT9r2nOGF6UUyWFgQ/edit?usp=sharing)<br>
+Week-wise schedule can be found [here](https://docs.google.com/document/d/1OJfGoLarP1J0glPdedybIIFMw1u1msbGBsNbo5wn8jc/edit?usp=sharing)
 
-### Introduction (Week 1)
+### Introduction
 Before we jump into the main project, let’s get you up to speed on some Deep Learning basics—especially Recurrent Neural Networks (RNNs). Here’s a handy list of resources to get you familiar with the theory and help you start building prediction models. Dive in when you're ready!
 
 **Learning Resources**
