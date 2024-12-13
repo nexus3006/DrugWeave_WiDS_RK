@@ -1,5 +1,5 @@
 # DrugWeave : Secrets of the Sequence
-Winter in Data Science, 2025
+Winter in Data Science, 2024
 
 ### Problem Statement
 Check the introductory presentation [here](https://docs.google.com/presentation/d/1HyFptLId--epo-OwuoIda-OaTSfT9r2nOGF6UUyWFgQ/edit?usp=sharing)<br>
